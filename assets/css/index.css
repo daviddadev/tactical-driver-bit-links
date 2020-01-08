@@ -7,14 +7,18 @@ html {
 } */
 
 .hero {
-    padding-top: 40px;
+    padding-top: 1rem;
 }
 
 .hero h1 {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: .75rem;
+    padding-bottom: 1rem;
     font-size: 1.5rem;
     color: #37474f;
+}
+
+p.lead {
+    margin-bottom: 0 !important;
 }
 
 .btn-primary,
